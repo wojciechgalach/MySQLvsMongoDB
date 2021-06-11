@@ -6,7 +6,7 @@ Porównanie szybkosci zapisu baz
 - Java 8
 - Spring Boot
 - Hibernate
-
+     
 
 Wczytuję  1000 obiektów, (pobranych 
 z https://www.mockaroo.com/ (z formatu CSV))
